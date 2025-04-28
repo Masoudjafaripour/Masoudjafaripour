@@ -23,13 +23,9 @@ I am a graduate student in Computer Science at the University of Alberta, specia
 
 ### 💬 Connect with Me
 [![Website Badge](https://img.shields.io/badge/Website-Portfolio-informational?style=flat&logo=google-chrome&logoColor=white&color=0D76A8)](https://sites.google.com/view/masoud-jafaripoor/) 
-
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1DA1F2)](https://x.com/mjafaripoor110) 
-
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/masoud-jafaripour/) 
-
 [![ResearchGate Badge](https://img.shields.io/badge/ResearchGate-Profile-informational?style=flat&logo=researchgate&logoColor=white&color=00CCBB)](https://www.researchgate.net/profile/Masoud-Jafaripour-2) 
-
 [![Google Scholar Badge](https://img.shields.io/badge/Google%20Scholar-Profile-informational?style=flat&logo=google-scholar&logoColor=white&color=4285F4)](https://scholar.google.com/citations?hl=en&user=b1sO5xgAAAAJ&view_op=list_works&gmla=AL3_zijVEMnzE6R41dt7g3JjsYILQQzGzA8SbnwKgbMmUHMcIeczJVKO9LiERHhG3Z2Wu6IoIwQwsrE9lK4Hn68A)
 
 ---
