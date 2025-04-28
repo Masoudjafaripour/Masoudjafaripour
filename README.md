@@ -1,15 +1,15 @@
-## Hi there, I'm Masoud Jafaripour! 👋
+## Hi, I'm Masoud
 
 Welcome to my GitHub profile.
 
-I'm a Master's student in Computer Science at the University of Alberta, with a background in Robotics, Machine Learning, Reinforcement Learning, and Vision-Language Models (VLMs). I am passionate about developing intelligent systems that combine reasoning, planning, and learning, with a focus on safe human-robot interaction and real-world deployment.
+I am a graduate student in Computer Science at the University of Alberta, specializing in Robotics, Machine Learning, Reinforcement Learning, and Vision-Language Models (VLMs). My research interests lie at the intersection of planning, reasoning, and grounded decision-making for intelligent systems, with a particular focus on advancing the capabilities of large multimodal models (MMLMs).
 
 ---
 
 ### 📊 Current Focus
-- Robot Learning, Motion Planning, and Human-Robot Collaboration
-- Integrating LLMs/VLMs with Planning and Control
-- Safe and Robust AI Decision-Making (Uncertainty Quantification, Risk-Aware Planning)
+- Grounding and Planning Abilities of Large Vision and Language Models (VLMs/MMLMs)
+- Robot Learning and Motion Planning
+- Vision-Language Understanding and Embodied Reasoning
 
 ### 🎓 Academic Background
 - M.Sc. in Computer Science, University of Alberta (Present)
@@ -19,17 +19,21 @@ I'm a Master's student in Computer Science at the University of Alberta, with a 
 - Large Language Models (LLMs) for Robotics and Planning
 - Reinforcement Learning and Policy Optimization
 - Path Planning in Continuous and Discrete Spaces
-- Vision-Language Understanding and Embodied Reasoning
+- Vision-Language Understanding and Multimodal Embodied Reasoning
 
-### 💬 Let's Connect!
-- [Personal Website](https://sites.google.com/view/masoud-jafaripoor/)
-- [Twitter/X](https://x.com/mjafaripoor110)
-- [LinkedIn](https://www.linkedin.com/in/masoud-jafaripour/)
-- [ResearchGate](https://www.researchgate.net/profile/Masoud-Jafaripour-2)
-- [Google Scholar](https://scholar.google.com/citations?hl=en&user=b1sO5xgAAAAJ&view_op=list_works&gmla=AL3_zijVEMnzE6R41dt7g3JjsYILQQzGzA8SbnwKgbMmUHMcIeczJVKO9LiERHhG3Z2Wu6IoIwQwsrE9lK4Hn68A)
+### 💬 Connect with Me
+[![Website Badge](https://img.shields.io/badge/Website-Portfolio-informational?style=flat&logo=google-chrome&logoColor=white&color=0D76A8)](https://sites.google.com/view/masoud-jafaripoor/) 
+
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1DA1F2)](https://x.com/mjafaripoor110) 
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/masoud-jafaripour/) 
+
+[![ResearchGate Badge](https://img.shields.io/badge/ResearchGate-Profile-informational?style=flat&logo=researchgate&logoColor=white&color=00CCBB)](https://www.researchgate.net/profile/Masoud-Jafaripour-2) 
+
+[![Google Scholar Badge](https://img.shields.io/badge/Google%20Scholar-Profile-informational?style=flat&logo=google-scholar&logoColor=white&color=4285F4)](https://scholar.google.com/citations?hl=en&user=b1sO5xgAAAAJ&view_op=list_works&gmla=AL3_zijVEMnzE6R41dt7g3JjsYILQQzGzA8SbnwKgbMmUHMcIeczJVKO9LiERHhG3Z2Wu6IoIwQwsrE9lK4Hn68A)
 
 ---
 
 Feel free to explore my repositories, reach out for collaboration, or connect to discuss research and projects!
 
-> "Building intelligent, safe, and collaborative systems for the future." 👩‍💻🤖🚀
+> "Building intelligent, collaborative systems through multimodal understanding and planning." 👩‍💻🤖🚀
