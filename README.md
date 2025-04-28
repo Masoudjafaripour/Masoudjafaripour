@@ -13,6 +13,7 @@ I am a graduate student in Computer Science at the University of Alberta, specia
 
 ### 🎓 Academic Background
 - M.Sc. in Computer Science, University of Alberta (Present)
+- Ph.D. in ECE, University of Alberta (Transferred to CS)
 - M.Sc. and B.Sc. in Mechanical Engineering, Sharif University and University of Tehran
 
 ### 🚀 Projects and Interests
