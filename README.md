@@ -18,7 +18,6 @@ I am a graduate student in Computer Science at the University of Alberta, specia
 
 ### 🚀 Projects and Interests
 - Large Language Models (LLMs) for Robotics and Planning
-- Reinforcement Learning and Policy Optimization
 - Path Planning in Continuous and Discrete Spaces
 - Vision-Language Understanding and Multimodal Embodied Reasoning
 
