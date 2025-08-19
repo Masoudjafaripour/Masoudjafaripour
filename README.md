@@ -8,8 +8,8 @@ I am a graduate student in Computer Science at the University of Alberta, specia
 
 ### 📊 Current Focus
 - Grounding and Planning Abilities of Large Vision and Language Models (VLMs/MMLMs)
-- Robot Learning and Motion Planning
 - Vision-Language Understanding and Embodied Reasoning
+- Robot Learning and Motion Planning
 
 ### 🎓 Academic Background
 - M.Sc. in Computer Science, University of Alberta (Present)
@@ -17,9 +17,9 @@ I am a graduate student in Computer Science at the University of Alberta, specia
 - M.Sc. and B.Sc. in Mechanical Engineering, Sharif University and University of Tehran
 
 ### 🚀 Projects and Interests
-- Large Language Models (LLMs) for Robotics and Planning
-- Path Planning in Continuous and Discrete Spaces
+- Multimodal Large Language Models (MLLMs) for Planning and Spatial Reasoning
 - Vision-Language Understanding and Multimodal Embodied Reasoning
+- Path Planning in Continuous and Discrete Spaces
 
 ### 💬 Connect with Me
 [![Website Badge](https://img.shields.io/badge/Website-Portfolio-informational?style=flat&logo=google-chrome&logoColor=white&color=0D76A8)](https://sites.google.com/view/masoud-jafaripoor/) 
