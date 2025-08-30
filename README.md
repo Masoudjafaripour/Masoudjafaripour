@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile.
 
-I am a graduate student in Computer Science at the University of Alberta, specializing in Generative Models and NLP. My research interests lie at the intersection of planning, reasoning, and grounded decision-making for intelligent systems, with a particular focus on advancing the capabilities of large multimodal language models (MMLMs).
+I am a graduate student in Computer Science at the University of Alberta, focused on multimodal vision-language generative models. My research interests lie at the intersection of planning, reasoning, and grounded decision-making for intelligent systems, with a particular focus on advancing the capabilities of large multimodal language models (MMLMs).
 
 ---
 
