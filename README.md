@@ -1,25 +1,28 @@
-## Hi, I'm Masoud
+## Hi, I'm Masoud 👋
 
-Welcome to my GitHub profile.
+Welcome to my GitHub profile!
 
-I am a graduate student in Computer Science at the University of Alberta, focused on multimodal vision-language generative models. My research interests lie at the intersection of planning, reasoning, and grounded decision-making for intelligent systems, with a particular focus on advancing the capabilities of large multimodal language models (MMLMs).
+I am a grad student in CS at the UofA, supervised by Prof. Osmar Zaiane. My research focuses on multimodal generative models — including LLMs, VLMs, and diffusion models — with emphasis on planning, reasoning, and grounded decision-making for intelligent systems. Current work includes scaling 3D spatial reasoning in multimodal image generation with test-time scalling & CoT, applying post-training methods (PEFT, RLFT), and curating vision-language datasets for embodied multi-agent planning.  
 
 ---
 
 ### 📊 Current Focus
-- Grounding and Planning Abilities of Large Vision and Language Models (VLMs/MMLMs)
-- Vision-Language Understanding and Embodied Reasoning
-- Robot Learning and Motion Planning
+- Planning & Reasoning with LLMs/VLMs/MMLMs  
+- Vision-Language Understanding & Embodied Spatial Reasoning  
+- 3D Representations, Grounding, & Motion Planning  
 
 ### 🎓 Academic Background
-- M.Sc. in Computer Science, University of Alberta (Present)
-- Ph.D. in ECE, University of Alberta (Transferred to CS)
-- M.Sc. and B.Sc. in Mechanical Engineering, Sharif University and University of Tehran
+- M.Sc. in CS, University of Alberta (Present)  
+- Ph.D. in ECE, University of Alberta (Transferred to CS)  
+- M.Sc. & B.Sc. in ME, Sharif University of Technology & Univ. of Tehran  
 
-### 🚀 Projects and Interests
-- Multimodal Large Language Models (MLLMs) for Planning and Spatial Reasoning
-- Vision-Language Understanding and Multimodal Embodied Reasoning
-- Path Planning in Continuous and Discrete Spaces
+### 🚀 Projects & Interests
+- MMLMs for Planning & Spatial Reasoning  
+- Vision-Language Datasets for Embodied Multi-Agent Systems  
+- Scaling 3D Spatial Reasoning with TTS \& CoT
+- Visual and Geometry Retrieval Systems
+- Path Planning in Continuous \& Discrete Spaces  
+
 
 ### 💬 Connect with Me
 [![Website Badge](https://img.shields.io/badge/Website-Portfolio-informational?style=flat&logo=google-chrome&logoColor=white&color=0D76A8)](https://sites.google.com/view/masoud-jafaripoor/) 
