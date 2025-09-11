@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-I am a grad student in CS at the UofA, supervised by Prof. Osmar Zaiane. My research focuses on multimodal generative models — including LLMs, VLMs, and diffusion models — with emphasis on planning, reasoning, and grounded decision-making for intelligent systems. Current work includes scaling 3D spatial reasoning in multimodal image generation with test-time scalling & CoT, applying post-training methods (PEFT, RLFT), and curating vision-language datasets for embodied multi-agent planning.  
+I am a grad student in CS at the UofA, supervised by Prof. Osmar Zaiane. My research focuses on multimodal generative models — including LLMs, VLMs, and diffusion models — with emphasis on planning, reasoning, and grounded decision-making for intelligent systems. Current work includes scaling 3D spatial reasoning in multimodal image generation with test-time scalling (TTS) & multimodal CoT, applying post-training methods (PEFT, RLFT), and curating vision-language datasets for embodied multi-agent planning.  
 
 ---
 
@@ -18,10 +18,10 @@ I am a grad student in CS at the UofA, supervised by Prof. Osmar Zaiane. My rese
 
 ### 🚀 Projects & Interests
 - MMLMs for Planning & Spatial Reasoning  
-- Vision-Language Datasets for Embodied Multi-Agent Systems  
+- Building Vision-Language Datasets for Embodied Multi-Agent Systems  
 - Scaling 3D Spatial Reasoning with TTS \& CoT
 - Visual and Geometry Retrieval Systems
-- Path Planning in Continuous \& Discrete Spaces  
+- Path Planning using Language Models
 
 
 ### 💬 Connect with Me
