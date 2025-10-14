@@ -1,7 +1,5 @@
 ## Hi, I'm Masoud 👋
 
-Welcome to my GitHub profile!
-
 I am a grad student in CS at the UofA, supervised by Prof. Osmar Zaiane. My research focuses on multimodal generative models — including LLMs, VLMs, and diffusion models — with emphasis on planning, spatial reasoning, and grounded decision-making for intelligent systems. Current work includes scaling 3D spatial reasoning in multimodal image generation with test-time scalling (TTS) & multimodal CoT, applying post-training methods (PEFT, RLFT), and curating vision-language datasets for embodied multi-agent planning.  
 
 ---
