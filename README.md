@@ -1,13 +1,13 @@
 ## Hi, I'm Masoud 👋
 
-I am a grad student in CS at the UofA, supervised by Prof. Osmar Zaiane. My research focuses on multimodal generative models — including LLMs, VLMs, and diffusion models — with emphasis on planning, spatial reasoning, and grounded decision-making for intelligent systems. Current work includes scaling 3D spatial reasoning in multimodal image generation with test-time scalling (TTS) & multimodal CoT, applying post-training methods (PEFT, RLFT), and curating vision-language datasets for embodied multi-agent planning.  
+I am a grad student in CS at the UofA, supervised by Prof. Osmar Zaiane. My research focuses on multimodal generative models — including LLMs, VLMs, and diffusion models — with emphasis on 3D spatial reasoning. Current work includes scaling 3D spatial reasoning in multimodal image generation with test-time scalling (TTS) & multimodal CoT, applying post-training methods (PEFT, RL Fine-tuning), and curating vision-language datasets.  
 
 ---
 
 ### 📊 Current Focus
-- Planning & Reasoning with LLMs/VLMs/MMLMs  
+- Planning & Visual Reasoning with LLMs/VLMs/MMLMs  
 - Vision-Language Understanding & Embodied Spatial Reasoning  
-- 3D Representations, Grounding, & Motion Planning  
+- 3D Representations, Grounding, & Space Understanding
 
 ### 🎓 Academic Background
 - M.Sc. in CS, University of Alberta (Present)  
