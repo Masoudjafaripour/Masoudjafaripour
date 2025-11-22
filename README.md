@@ -22,9 +22,3 @@ I am a grad student in CS at the UofA, supervised by Prof. Osmar Zaiane. My rese
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/masoud-jafaripour/) 
 [![ResearchGate Badge](https://img.shields.io/badge/ResearchGate-Profile-informational?style=flat&logo=researchgate&logoColor=white&color=00CCBB)](https://www.researchgate.net/profile/Masoud-Jafaripour-2) 
 [![Google Scholar Badge](https://img.shields.io/badge/Google%20Scholar-Profile-informational?style=flat&logo=google-scholar&logoColor=white&color=4285F4)](https://scholar.google.com/citations?hl=en&user=b1sO5xgAAAAJ&view_op=list_works&gmla=AL3_zijVEMnzE6R41dt7g3JjsYILQQzGzA8SbnwKgbMmUHMcIeczJVKO9LiERHhG3Z2Wu6IoIwQwsrE9lK4Hn68A)
-
----
-
-Feel free to explore my repositories, reach out for collaboration, or connect to discuss research and projects!
-
-> "Building intelligent, collaborative systems through multimodal understanding and planning." 👩‍💻🤖🚀
