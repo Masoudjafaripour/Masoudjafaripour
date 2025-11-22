@@ -1,26 +1,20 @@
 ## Hi, I'm Masoud 👋
 
-I am a grad student in CS at the UofA, supervised by Prof. Osmar Zaiane. My research focuses on multimodal generative models — including LLMs, VLMs, and diffusion models — with emphasis on 3D spatial reasoning. Current work includes scaling 3D spatial reasoning in multimodal image generation with test-time scalling (TTS) & multimodal CoT, applying post-training methods (PEFT, RL Fine-tuning), and curating vision-language datasets.  
+I am a grad student in CS at the UofA, supervised by Prof. Osmar Zaiane. My research focuses on multimodal generative models — including LLMs, VLMs, and diffusion models — with emphasis on 3D spatial reasoning. Current work includes scaling 3D spatial reasoning in multimodal image generation with test-time scalling, multimodal CoT, applying post-training methods (SFTv& RL Fine-tuning), and curating vision-language datasets.  
 
 ---
 
 ### 📊 Current Focus
-- Planning & Visual Reasoning with LLMs/VLMs/MMLMs  
+- Spatial & Visual Reasoning with LLMs/VLMs/MMLMs  
 - Vision-Language Understanding & Embodied Spatial Reasoning  
 - 3D Representations, Grounding, & Space Understanding
+- Building Vision-Language Datasets for Embodied Multi-Agent Systems
+- Visual and Geometry Retrieval Systems
 
 ### 🎓 Academic Background
 - M.Sc. in CS, University of Alberta (Present)  
 - Ph.D. in ECE, University of Alberta (Transferred to CS)  
 - M.Sc. & B.Sc. in ME, Sharif University of Technology & Univ. of Tehran  
-
-### 🚀 Projects & Interests
-- MMLMs for Planning & Spatial Reasoning  
-- Building Vision-Language Datasets for Embodied Multi-Agent Systems  
-- Scaling 3D Spatial Reasoning with TTS \& CoT
-- Visual and Geometry Retrieval Systems
-- Path Planning using Language Models
-
 
 ### 💬 Connect with Me
 [![Website Badge](https://img.shields.io/badge/Website-Portfolio-informational?style=flat&logo=google-chrome&logoColor=white&color=0D76A8)](https://sites.google.com/view/masoud-jafaripoor/) 
