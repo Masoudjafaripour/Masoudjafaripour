@@ -3,7 +3,7 @@ I am a grad student in CS at the UofA, supervised by Prof. Osmar Zaiane. My rese
 ---
 
 ### 📊 Current Focus
-- Spatial & Visual Reasoning with LLMs/VLMs/MMLMs  
+- Efficient Spatial & Visual Reasoning with LLMs/VLMs/MMLMs  
 - Vision-Language Understanding & Embodied Spatial Reasoning  
 - 3D Representations, Grounding, & Space Understanding
 - Building Vision-Language Datasets for Embodied Multi-Agent Systems
