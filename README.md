@@ -1,4 +1,4 @@
-I am a grad student in CS at the UofA, supervised by Prof. Osmar Zaiane. My research focuses on multimodal generative models, including LLMs, VLMs, and diffusion models, with emphasis on 3D spatial reasoning. Current work includes scaling spatial and fine-grained visual reasoning in multimodal LLMs (potentially with image generation) with test-time scaling, RL post-training for efficient reasoning with curating customized vision-language datasets.  
+I am a grad student in CS at the UofA, supervised by Prof. Osmar Zaiane. My research focuses on multimodal generative models, including LLMs, VLMs, and diffusion models, with emphasis on spatial reasoning and visual planning. Current work includes scaling spatial and fine-grained visual reasoning in multimodal LLMs (potentially with image generation) with test-time scaling, RL post-training for efficient reasoning, and curating customized vision-language datasets.  
 
 ---
 
