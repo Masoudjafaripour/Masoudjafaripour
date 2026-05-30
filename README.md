@@ -6,7 +6,7 @@ I am a grad student in CS at the UofA, supervised by Prof. Osmar Zaiane. My rese
 - Efficient Spatial & Visual Reasoning with LLMs/VLMs/MMLMs  
 - Vision-Language Understanding & Embodied Spatial Reasoning  
 - 3D Representations, Grounding, & Space Understanding
-- Building Vision-Language Datasets for Post-training MLLMs for Spatial Reasoning
+- Building Vision-Language Datasets for Post-training MLLMs on Spatial Reasoning Tasks
 - Visual and Geometry Retrieval Systems
 
 ### 🎓 Academic Background
