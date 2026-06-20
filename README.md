@@ -1,5 +1,8 @@
-I am a grad student in CS at the UofA, supervised by Prof. Osmar Zaiane. My research focuses on multimodal generative models, including LLMs, VLMs, and diffusion models, with emphasis on spatial reasoning and visual planning. Current work includes scaling spatial and fine-grained visual reasoning in multimodal LLMs (potentially with image generation) with test-time scaling, RL post-training for efficient reasoning, and curating customized vision-language datasets.  
+Hi there 👋, I'm **Masoud**, a graduate student in Computer Science at the **University of Alberta**, supervised by [Prof. Osmar R. Zaïane](https://webdocs.cs.ualberta.ca/~zaiane/), and currently a Research Intern at **Electronic Arts (EA)** 🎮.
 
+My thesis research focuses on **visual and spatial reasoning in multimodal language models**. Currently, I am exploring how **inference-time scaling**, **adaptive context control**, and **RL post-training** can improve the efficiency and adaptability of spatial reasoning. Spatial reasoning has broad applications across domains including **robotics**, **autonomous driving**, **video games**, and **VR/AR**.
+
+At EA, my research focuses on developing **small, efficient language models for real-time decision-making and video game applications**.
 ---
 
 ### 📊 Current Focus
