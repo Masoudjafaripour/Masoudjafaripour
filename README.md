@@ -1,6 +1,6 @@
 Hi there 👋, I'm **Masoud**, a graduate student in Computer Science at the **University of Alberta**, supervised by [Prof. Osmar R. Zaïane](https://webdocs.cs.ualberta.ca/~zaiane/), and currently a Research Intern at **Electronic Arts (EA)** 🎮.
 
-My thesis research focuses on **visual and spatial reasoning in multimodal language models**. Currently, I am exploring how **inference-time scaling**, **adaptive context control**, and **RL post-training** can improve the efficiency and adaptability of spatial reasoning. The idea of scaling inference has some roots in the internal world models of language models. Spatial reasoning has broad applications across domains including **robotics**, **autonomous driving**, **video games**, and **VR/AR**.
+My thesis research focuses on **visual and spatial reasoning in multimodal language models**. Currently, I am exploring how **inference-time scaling**, **adaptive context control for embodied applications**, and **RL post-training** can improve the efficiency and adaptability of spatial reasoning. The idea of scaling inference has some roots in the internal world models of language models. Spatial reasoning has broad applications across domains including **robotics**, **autonomous driving**, **video games**, and **VR/AR**.
 
 
 At EA, my research focuses on developing small, efficient language models for real-time decision-making and video game applications.
