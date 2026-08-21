@@ -8,8 +8,8 @@ At EA, my research focuses on developing small, efficient language models for re
 ---
 
 ### 📊 Current Focus
+- Spatial & Temporal Understanding for Planning in Language-based Embodied Agents
 - Efficient Spatial & Visual Reasoning with LLMs/VLMs/MMLMs  
-- Vision-Language Understanding & Embodied Spatial Reasoning  
 - 3D Representations, Grounding, & Space Understanding in MLLMs
 - Building Vision-Language Datasets for Post-training MLLMs on Spatial Reasoning Tasks
 - Visual and Geometry Retrieval Systems (non-textual RAG)
