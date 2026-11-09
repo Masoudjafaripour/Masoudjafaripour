@@ -1,23 +1,18 @@
-Hi there 👋, I'm **Masoud**, a graduate student in Computing Science at the **University of Alberta**, supervised by [Prof. Osmar R. Zaïane](https://webdocs.cs.ualberta.ca/~zaiane/), and currently a Research Intern at **Electronic Arts (EA)** 🎮.
+Hi there 👋, I'm **Masoud**, an MSc student in Computing Science at the **University of Alberta**, supervised by [Prof. Osmar R. Zaïane](https://webdocs.cs.ualberta.ca/~zaiane/), and currently a Research Intern at **Electronic Arts (EA)** 🎮.
 
-My thesis research focuses on **visual and spatial reasoning in multimodal language models**. Currently, I am exploring how **inference-time scaling**, **adaptive context control for embodied applications**, and **RL post-training** can improve the efficiency and adaptability of spatial reasoning. The idea of scaling inference has some roots in the internal world models of language models. Spatial reasoning has broad applications across domains including **robotics**, **autonomous driving**, **video games**, and **VR/AR**.
+My research focuses on **visual and spatial reasoning in multimodal language models**, particularly **inference-time scaling**, **adaptive context and memory for embodied agents**, and **RL post-training** to improve reasoning, planning, and efficiency. I'm also interested in internal world models and their applications in **robotics, autonomous driving, video games, and VR/AR**.
 
-
-At EA, my research focuses on developing small, efficient language models for real-time decision-making and video game applications.
+At **EA**, I develop **small, efficient language models** for real-time decision-making and interactive game environments.
 
 ---
 
 ### 📊 Current Focus
-- Spatial & Temporal Understanding for Planning in Language-based Embodied Agents
-- Efficient Spatial & Visual Reasoning with LLMs & VLMs  
-- 3D Representations, Grounding, & Space Understanding in MLLMs
-- Building Vision-Language Datasets for Post-training (SFT/RLFT/OPSD) MLLMs on Spatial Reasoning Tasks
-- Visual and Geometry Retrieval Systems (non-textual, multi-modal RAG)
+- Spatial & Temporal Reasoning for Planning in Embodied Agents
+- Efficient Visual & Spatial Reasoning with LLMs/VLMs
+- 3D Representations, Grounding & Spatial Understanding in MLLMs
+- Vision-Language Dataset Curation & Post-training (SFT/RLFT/OPD)
+- Visual & Geometric Retrieval (Multimodal RAG)
 
-### 🎓 Academic Background
-- M.Sc. in CS, University of Alberta (Present)  
-- Ph.D. in ECE, University of Alberta (Transferred to CS)  
-- M.Sc. & B.Sc. in ME, Sharif University of Technology & Univ. of Tehran  
 
 ### 💬 Connect with Me
 [![Website Badge](https://img.shields.io/badge/Website-Portfolio-informational?style=flat&logo=google-chrome&logoColor=white&color=0D76A8)](https://sites.google.com/view/masoud-jafaripoor/) 
