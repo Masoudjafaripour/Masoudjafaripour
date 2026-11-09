@@ -1,6 +1,6 @@
 Hi there 👋, I'm **Masoud**, an MSc student in Computing Science at the **University of Alberta**, supervised by [Prof. Osmar R. Zaïane](https://webdocs.cs.ualberta.ca/~zaiane/), and currently a Research Intern at **Electronic Arts (EA)** 🎮.
 
-My research focuses on **visual and spatial reasoning in multimodal language models**, particularly **inference-time scaling**, **adaptive context and memory for embodied agents**, and **RL post-training** to improve reasoning, planning, and efficiency. I'm also interested in internal world models and their applications in **robotics, autonomous driving, video games, and VR/AR**.
+My research focuses on **visual and spatial reasoning in multimodal language models**, particularly **inference-time scaling**, **adaptive context and memory retrieval**, and **RL post-training** to improve reasoning, planning, and efficiency. I'm also interested in internal world models and their applications in **robotics, autonomous driving, video games, and VR/AR**.
 
 At **EA**, I develop **small, efficient language models** for real-time decision-making and interactive game environments.
 
