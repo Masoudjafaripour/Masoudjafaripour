@@ -4,14 +4,6 @@ My research focuses on **visual and spatial reasoning in multimodal language mod
 
 At **EA**, I develop **small, efficient language models** for real-time decision-making and interactive game environments.
 
----
-
-### 📊 Current Focus
-- Spatial & Temporal Reasoning for Planning in Embodied Agents
-- Efficient Visual & Spatial Reasoning with LLMs/VLMs
-- 3D Representations, Grounding & Spatial Understanding in MLLMs
-- Vision-Language Dataset Curation & Post-training (SFT/RLFT/OPD)
-- Visual & Geometric Retrieval (Multimodal RAG)
 
 
 ### 💬 Connect with Me
