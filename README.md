@@ -12,3 +12,10 @@ At **EA**, I develop **small, efficient language models** for real-time decision
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/masoud-jafaripour/) 
 [![ResearchGate Badge](https://img.shields.io/badge/ResearchGate-Profile-informational?style=flat&logo=researchgate&logoColor=white&color=00CCBB)](https://www.researchgate.net/profile/Masoud-Jafaripour-2) 
 [![Google Scholar Badge](https://img.shields.io/badge/Google%20Scholar-Profile-informational?style=flat&logo=google-scholar&logoColor=white&color=4285F4)](https://scholar.google.com/citations?hl=en&user=b1sO5xgAAAAJ&view_op=list_works&gmla=AL3_zijVEMnzE6R41dt7g3JjsYILQQzGzA8SbnwKgbMmUHMcIeczJVKO9LiERHhG3Z2Wu6IoIwQwsrE9lK4Hn68A)
+
+### 🛠️ My Skills
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,cpp,cs,unity,unreal,ros,docker,git,github,linux,bash,vscode,latex,matlab&perline=10" />
+  </a>
+</p>
